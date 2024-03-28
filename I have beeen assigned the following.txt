@@ -1,0 +1,7 @@
+I have beeen assigned the following topic(Law Firm Billing System: Create a database to track billable hours, expenses, and client invoices for a law firm).I am required to design a mongodb documentdatabase for for this topic .please write Markdown file code for my project. 
+Please include following headings.
+1.Title
+2.Executive summery 
+3.Project requirements
+4.Data model (5 collections)with explanation.
+5.conclusion
